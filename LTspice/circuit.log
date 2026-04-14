@@ -1,0 +1,20 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\sabax\Repositories\AudioAMP\LTspice\circuit.net
+Start Time: Wed Apr 15 00:20:07 2026
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = modified trap
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.128 seconds.
+
+Files loaded:
+C:\Users\sabax\Repositories\AudioAMP\LTspice\circuit.net
+C:\Users\sabax\Repositories\AudioAMP\LTspice\njm4558_v2_single.lib
+C:\Users\sabax\Repositories\AudioAMP\LTspice\NJM5532x_v0301_single.lib
+

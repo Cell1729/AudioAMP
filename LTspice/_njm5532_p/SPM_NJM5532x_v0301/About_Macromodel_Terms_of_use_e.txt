@@ -1,0 +1,40 @@
+About Macromodel - Terms of use -
+---------------------------------
+1．Introduction
+
+Our Macromodel (for use with PSpice) is a simulation program and not for use in actual product operation. 
+It is not an alternative to the actual product. Please use this Macromodel to assist in the actual product operation check.
+
+2．Special instruction
+
+Nisshinbo Micro Devices is not responsible for changes, omissions, inaccuracies, and designs caused by the product Macromodel. 
+Moreover, Nisshinbo Micro Devices does not take any responsibility if customers use this information for other purposes.
+Nisshinbo Micro Devices requires customers to take full responsibility for their use of any information acquired through Macromodel. 
+In addition, Nisshinbo Micro Devices does not give consent agreement or patent rights with regards to circuits described 
+in relevant documents.
+
+3．Usage and operating requirements
+
+3-1．Operating requirements
+
+Our Macromodel and related information have been created for use with OrCAD/Pspice, which is produced by Cadence Design Systems, Inc. 
+in the United States. 
+Nisshinbo Micro Devices is not liable for performance of the Macromodelin all computer systems.
+
+3-2.Conditions of use
+
+The product Macromodel should be used under agreement of the conditions contained below.
+
+i. The product Macromodel is offered with product-specific, present quality. 
+Nisshinbo Micro Devices does not take responsibility for Macromodel operation once Macromodel is integrated into customers’ 
+circuits or systems.
+
+ii. The product Macromodel is subject to change without notice. Please refer to the latest version of data-sheet or delivery specifications 
+for detailed information regarding each product.
+
+Update October 01,2021
+
+---------------------------------
+Nisshinbo Micro Devices Inc.
+
+(C) Nisshinbo Micro Devices Inc. All Rights Reserved.
