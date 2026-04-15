@@ -52,11 +52,11 @@
 
 Left Ch
 
-![Lch](./img/Lch 1khz.png)
+![Lch](./img/Lch1khz.png)
 
 Right Ch
 
-![Rch](./img/Rch 1khz.png)
+![Rch](./img/Rch1khz.png)
 
 ### サンプル2
 
@@ -64,17 +64,17 @@ Right Ch
 
 Left Ch
 
-![LchHires](./img/Lch 96kHz.png)
+![LchHires](./img/Lch96kHz.png)
 
 Right Ch
 
-![RchHires](./img/Rch 96kHz.png)
+![RchHires](./img/Rch96kHz.png)
 
 ## その他
 
 ## `45kΩ`抵抗について
 
-![RConnect](./img/R connect.png)
+![RConnect](./img/connect.png)
 
 このように上の図のように接続すれば抵抗値は
 ```
