@@ -80,4 +80,6 @@ Right Ch
 ```
 10k+10k+10k+10k+(10k*10k)/(10k+10k)=45k
 ```
+## REF
 
+- [AE-KIT45-HPAキット](https://akizukidenshi.com/goodsaffix/AE-KIT45-HPA.pdf)
