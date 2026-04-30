@@ -1,17 +1,19 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\sabax\Repositories\AudioAMP\LTspice\circuit.net
-Start Time: Wed Apr 15 00:20:07 2026
+Start Time: Wed Apr 15 14:07:19 2026
 solver = Normal
-Maximum thread count: 20
+Maximum thread count: 8
 tnom = 27
 temp = 27
-method = modified trap
+method = trap
 Early termination of direct N-R iteration.
 Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
-Gmin stepping succeeded in finding the operating point.
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.128 seconds.
+Total elapsed time: 0.180 seconds.
 
 Files loaded:
 C:\Users\sabax\Repositories\AudioAMP\LTspice\circuit.net
