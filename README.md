@@ -38,9 +38,9 @@
 | 47抵抗 100本入り 1% | MFS25F47RB | 1 | 250 | 250 | [リンク](https://akizukidenshi.com/catalog/g/g108518/) |
 | 470μF 電解コンデンサ | 35ZLH470MEFC10X16 | 4 | 40 | 160 | [リンク](https://akizukidenshi.com/catalog/g/g102719/) |
 | 10μF 電解コンデンサ | 50PX10MEFC5X11 | 2 | 10 | 20 | [リンク](https://akizukidenshi.com/catalog/g/g117897/) |
-| アンプ ICソケット | 2227-8-3 | 2 | 110 | 220 | [リンク](https://akizukidenshi.com/catalog/g/g100017/) |
+| アンプ ICソケット | 2227-8-3 | 1 | 110 | 110 | [リンク](https://akizukidenshi.com/catalog/g/g100017/) |
 
-合計金額: 3,420円
+合計金額: 3,310円
 
 ## 入出力波形
 
@@ -80,6 +80,12 @@ Right Ch
 ```
 10k+10k+10k+10k+(10k*10k)/(10k+10k)=45k
 ```
+
+## 基板構成
+
+- 電源回路用基板
+- アンプ搭載基板
+
 ## REF
 
 - [AE-KIT45-HPAキット](https://akizukidenshi.com/goodsaffix/AE-KIT45-HPA.pdf)
