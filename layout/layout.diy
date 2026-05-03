@@ -1763,15 +1763,15 @@
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
     <diylc.connectivity.Jumper>
-      <id>28502c61-f476-4cb6-a40c-77859d3be469</id>
+      <id>d695bb4a-839b-483c-93ed-a810e391ffd7</id>
       <name>J47</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="3.3" y="3.8"/>
         <point x="4.4" y="5.4"/>
-        <point x="3.85" y="4.6"/>
+        <point x="4.9" y="5.4"/>
+        <point x="4.65" y="5.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>

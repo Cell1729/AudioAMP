@@ -20,6 +20,8 @@
 
 ## 部品
 
+## 部品リスト
+
 | 部品名 | 型番 | 数量 | 単価 | 小計 | 商品URL |
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | アンプ | NJM5532DD | 1 | 90 | 90 | [リンク](https://akizukidenshi.com/catalog/g/g117706/) |
@@ -28,19 +30,24 @@
 | つまみ | ABS-28 | 1 | 30 | 30 | [リンク](https://akizukidenshi.com/catalog/g/g100253/) |
 | 24VACアダプタ | AD-B240P100 | 1 | 1250 | 1250 | [リンク](https://akizukidenshi.com/catalog/g/g110658/) |
 | ACアダプタコネクタ | MJ-14 | 1 | 70 | 70 | [リンク](https://akizukidenshi.com/catalog/g/g106342/) |
-| 3.5mmステレオジャック | MJ-352W-O | 2 | 140 | 280 | [リンク](https://akizukidenshi.com/catalog/g/g108958/) |
-| 6.3mmステレオジャック | MJ-187 N.W | 1 | 200 | 200 | [リンク](https://akizukidenshi.com/catalog/g/g115402/) |
+| 3.5mmステレオジャック | MJ-073H | 2 | 120 | 240 | [リンク](https://akizukidenshi.com/catalog/g/g106257/) |
+| 6.3mmステレオジャック | MJ-189LP | 1 | 230 | 230 | [リンク](https://akizukidenshi.com/catalog/g/g106765/) |
 | イヤホンジャック切り替え | - | 1 | 30 | 30 | [リンク](https://akizukidenshi.com/catalog/g/g115706/) |
 | 電源用LED | OSG8HA3Z74A | 1 | 10 | 10 | [リンク](https://akizukidenshi.com/catalog/g/g111637/) |
 | 電源スイッチ | 1MS1-T1-B1-M1-Q-N | 1 | 120 | 120 | [リンク](https://akizukidenshi.com/catalog/g/g103774/) |
-| 4.7k抵抗 100本入り 1% | MFS25F4K7B | 1 | 250 | 250 | [リンク](https://akizukidenshi.com/catalog/g/g108546/) |
+| 4.7k抵抗 100本入り1% | MFS25F4K7B | 1 | 250 | 250 | [リンク](https://akizukidenshi.com/catalog/g/g108546/) |
 | 10k抵抗 100本入り 1% | MFS25F10KB | 1 | 250 | 250 | [リンク](https://akizukidenshi.com/catalog/g/g108550/) |
 | 47抵抗 100本入り 1% | MFS25F47RB | 1 | 250 | 250 | [リンク](https://akizukidenshi.com/catalog/g/g108518/) |
 | 470μF 電解コンデンサ | 35ZLH470MEFC10X16 | 4 | 40 | 160 | [リンク](https://akizukidenshi.com/catalog/g/g102719/) |
 | 10μF 電解コンデンサ | 50PX10MEFC5X11 | 2 | 10 | 20 | [リンク](https://akizukidenshi.com/catalog/g/g117897/) |
-| アンプ ICソケット | 2227-8-3 | 1 | 110 | 110 | [リンク](https://akizukidenshi.com/catalog/g/g100017/) |
+| アンプ ICソケット | 2227-8-3 | 1 | 110 | 110 | [リンク](https://akizukidenshi.com/catalog/g/g100017) |
+| ユニバーサル基板 | - | 2 | 100 | 200 | [リンク](https://akizukidenshi.com/catalog/g/g100517/) |
 
-合計金額: 3,310円
+合計金額: 3,470円
+
+### ユニバーサル基板
+
+[片面グラス・ユニバーサル基板 C type 72x47.5mm](https://akizukidenshi.com/catalog/g/g100517/)
 
 ## 入出力波形
 
@@ -89,3 +96,4 @@ Right Ch
 ## REF
 
 - [AE-KIT45-HPAキット](https://akizukidenshi.com/goodsaffix/AE-KIT45-HPA.pdf)
+- [電子パーツのコツ/ユニバーサル基板に挑戦](https://article.murata.com/ja-jp/article/challenge-the-universal-board)
