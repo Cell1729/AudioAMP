@@ -1762,6 +1762,28 @@
       <hideShortLeads>false</hideShortLeads>
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <id>28502c61-f476-4cb6-a40c-77859d3be469</id>
+      <name>J47</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <points>
+        <point x="3.3" y="3.8"/>
+        <point x="4.4" y="5.4"/>
+        <point x="3.85" y="4.6"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="0000ff"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
     <diylc.misc.BatterySymbol>
       <id>ef298268-933a-42e3-b502-441f39bbad81</id>
       <name>B1</name>
@@ -2495,50 +2517,6 @@
   <groupsEx>
     <group>
       <componentIds>
-        <uuid>34816663-cbbc-4e36-9df9-0f51740d5c0c</uuid>
-        <uuid>5be50006-d6ee-412a-a8cd-b2d33e71cb0a</uuid>
-        <uuid>55a47acf-ed13-4329-918b-c582d71d40c6</uuid>
-        <uuid>cd5ed5f9-2acd-4288-b5c8-dd5f10c17cb0</uuid>
-        <uuid>9a3e1803-b30d-4629-9888-b232752df449</uuid>
-        <uuid>6d6d538a-01fa-4442-95ee-8ea9f9a60ff7</uuid>
-        <uuid>5fa82164-4969-4e67-b6a0-a8fb564eb45d</uuid>
-        <uuid>5d444a64-825f-4898-a57c-5ee354028bb0</uuid>
-        <uuid>6ffb29d8-bf51-4251-a93b-193b14a4658d</uuid>
-        <uuid>4a16e55a-eff3-43db-9e48-72a0e3b5f033</uuid>
-        <uuid>4028c93e-bc28-44fd-a792-90b19d182ae8</uuid>
-        <uuid>7bbbf998-155c-41ac-8fae-4840a081d12d</uuid>
-        <uuid>d223f53b-202a-4ef8-b821-4dc237a7c2dd</uuid>
-        <uuid>d5306ac7-2a18-4573-8b97-e10a7a455dd0</uuid>
-        <uuid>3a65d123-da53-432f-b766-dc692c965b34</uuid>
-        <uuid>8f60ab3c-8778-467d-87d8-3d58af4ee88c</uuid>
-        <uuid>73eda690-9ad3-42d6-a84c-7d042cd6f4bb</uuid>
-        <uuid>80ae5573-5ecc-42bb-aae6-bbb984728ea7</uuid>
-        <uuid>f1805459-b83c-4819-b0f3-45c72ffb1217</uuid>
-        <uuid>db4f2dd4-f5bc-43d6-b3c0-bdc823cbda94</uuid>
-        <uuid>bd939749-b97b-4075-a9fb-9f5c3f1e268b</uuid>
-        <uuid>8963a0f6-0586-4f61-86c8-00945868bdae</uuid>
-        <uuid>fb12fa23-8c2d-4c1f-84cc-3d316f94ef82</uuid>
-        <uuid>dbb20944-8e03-4e44-ab03-b98208cb30d3</uuid>
-        <uuid>a6604ddc-763c-4504-815a-37ed6b4b9692</uuid>
-        <uuid>fbfbf6ef-5bea-44ec-a368-00c599c9a8dd</uuid>
-        <uuid>2451f6f0-f1f4-405a-9c64-89f315f590c1</uuid>
-        <uuid>38e89f89-509d-4b75-954a-c27cb1309fa3</uuid>
-        <uuid>2fbfa4b9-b339-4d57-9198-79a4fc3cccc5</uuid>
-        <uuid>68dbad63-f3bb-401b-93a0-f943a95cd6d7</uuid>
-        <uuid>b41bb2ab-ddd8-4f5b-ac9a-314694a0f83f</uuid>
-        <uuid>fb3fab4c-ce49-424e-85bd-e8820e842ab8</uuid>
-        <uuid>a9150242-d38a-483f-8f15-6ee92086f5ef</uuid>
-        <uuid>7e313590-f1f2-49d8-9059-9d167eeba2d5</uuid>
-        <uuid>80b7980b-9c7d-4e96-963c-00b90ccf7ce7</uuid>
-        <uuid>4dc4d1e2-cec1-47b4-8a78-19d4da0f834a</uuid>
-        <uuid>55501d56-a578-460c-b959-5c6f7557be6d</uuid>
-        <uuid>0789c278-de52-4178-ba22-4bd8785038ce</uuid>
-        <uuid>ef298268-933a-42e3-b502-441f39bbad81</uuid>
-      </componentIds>
-      <name>Power</name>
-    </group>
-    <group>
-      <componentIds>
         <uuid>57a71aad-4f35-4122-ad6f-03d7b3c47b60</uuid>
         <uuid>92adc376-3de9-4e6a-a98c-02f1a0be5d9a</uuid>
         <uuid>762bc424-bf25-4ec4-9750-1ed8da8e74ec</uuid>
@@ -2606,6 +2584,50 @@
         <uuid>745870f6-9c69-4094-b1e1-1aec447a14db</uuid>
       </componentIds>
       <name>main</name>
+    </group>
+    <group>
+      <componentIds>
+        <uuid>34816663-cbbc-4e36-9df9-0f51740d5c0c</uuid>
+        <uuid>5be50006-d6ee-412a-a8cd-b2d33e71cb0a</uuid>
+        <uuid>55a47acf-ed13-4329-918b-c582d71d40c6</uuid>
+        <uuid>cd5ed5f9-2acd-4288-b5c8-dd5f10c17cb0</uuid>
+        <uuid>9a3e1803-b30d-4629-9888-b232752df449</uuid>
+        <uuid>6d6d538a-01fa-4442-95ee-8ea9f9a60ff7</uuid>
+        <uuid>5fa82164-4969-4e67-b6a0-a8fb564eb45d</uuid>
+        <uuid>5d444a64-825f-4898-a57c-5ee354028bb0</uuid>
+        <uuid>6ffb29d8-bf51-4251-a93b-193b14a4658d</uuid>
+        <uuid>4a16e55a-eff3-43db-9e48-72a0e3b5f033</uuid>
+        <uuid>4028c93e-bc28-44fd-a792-90b19d182ae8</uuid>
+        <uuid>7bbbf998-155c-41ac-8fae-4840a081d12d</uuid>
+        <uuid>d223f53b-202a-4ef8-b821-4dc237a7c2dd</uuid>
+        <uuid>d5306ac7-2a18-4573-8b97-e10a7a455dd0</uuid>
+        <uuid>3a65d123-da53-432f-b766-dc692c965b34</uuid>
+        <uuid>8f60ab3c-8778-467d-87d8-3d58af4ee88c</uuid>
+        <uuid>73eda690-9ad3-42d6-a84c-7d042cd6f4bb</uuid>
+        <uuid>80ae5573-5ecc-42bb-aae6-bbb984728ea7</uuid>
+        <uuid>f1805459-b83c-4819-b0f3-45c72ffb1217</uuid>
+        <uuid>db4f2dd4-f5bc-43d6-b3c0-bdc823cbda94</uuid>
+        <uuid>bd939749-b97b-4075-a9fb-9f5c3f1e268b</uuid>
+        <uuid>8963a0f6-0586-4f61-86c8-00945868bdae</uuid>
+        <uuid>fb12fa23-8c2d-4c1f-84cc-3d316f94ef82</uuid>
+        <uuid>dbb20944-8e03-4e44-ab03-b98208cb30d3</uuid>
+        <uuid>a6604ddc-763c-4504-815a-37ed6b4b9692</uuid>
+        <uuid>fbfbf6ef-5bea-44ec-a368-00c599c9a8dd</uuid>
+        <uuid>2451f6f0-f1f4-405a-9c64-89f315f590c1</uuid>
+        <uuid>38e89f89-509d-4b75-954a-c27cb1309fa3</uuid>
+        <uuid>2fbfa4b9-b339-4d57-9198-79a4fc3cccc5</uuid>
+        <uuid>68dbad63-f3bb-401b-93a0-f943a95cd6d7</uuid>
+        <uuid>b41bb2ab-ddd8-4f5b-ac9a-314694a0f83f</uuid>
+        <uuid>fb3fab4c-ce49-424e-85bd-e8820e842ab8</uuid>
+        <uuid>a9150242-d38a-483f-8f15-6ee92086f5ef</uuid>
+        <uuid>7e313590-f1f2-49d8-9059-9d167eeba2d5</uuid>
+        <uuid>80b7980b-9c7d-4e96-963c-00b90ccf7ce7</uuid>
+        <uuid>4dc4d1e2-cec1-47b4-8a78-19d4da0f834a</uuid>
+        <uuid>55501d56-a578-460c-b959-5c6f7557be6d</uuid>
+        <uuid>0789c278-de52-4178-ba22-4bd8785038ce</uuid>
+        <uuid>ef298268-933a-42e3-b502-441f39bbad81</uuid>
+      </componentIds>
+      <name>Power</name>
     </group>
   </groupsEx>
   <lockedLayers/>
