@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\sabax\Repositories\AudioAMP\LTspice\circuit.net
-Start Time: Sun May  3 13:42:20 2026
+Start Time: Sun May  3 21:37:54 2026
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -13,7 +13,7 @@ Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip a
 Starting source stepping with srcstepmethod=0
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.283 seconds.
+Total elapsed time: 0.233 seconds.
 
 Files loaded:
 C:\Users\sabax\Repositories\AudioAMP\LTspice\circuit.net
